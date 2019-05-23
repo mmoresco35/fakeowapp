@@ -1,17 +1,5 @@
 
 {
-  "videos":{
-    "code":200,
-    "postcycle":
-      [
-        [5,
-         "Los jefes dirigimos voluntarios",
-         "nuevo video activo",
-         "http://gestorcampus.ottowalter.com/es/_postciclo/Los_jefes_dirigimos_a_voluntarios_S.mp4"
-         null
-        ],
-        
-      ]
-  }
+  "videos":[{"type":"video"},{"type":"record","id":"19","title":"1º VIP","color":"1"}]
 }
         
