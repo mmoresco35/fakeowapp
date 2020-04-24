@@ -7,5 +7,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "docStatus/1": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "docStatus/2": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ]
 }
