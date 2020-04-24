@@ -1,9 +1,11 @@
-{  
-   "docStatus":[      {
-         "id":1,
-         "title":"test"
-      
-}
-   
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
