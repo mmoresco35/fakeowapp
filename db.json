@@ -1,16 +1,4 @@
-{   "notifications":[      {
-         "type":"video"
-      
-},
-      {
-         "type":"record",
-         "id":"19",
-         "title":"1º VIP",
-         "color":"1"
-      
-}
-   
-],
+{  
    "docStatus":[      {
          "id":1,
          "title":"test"
